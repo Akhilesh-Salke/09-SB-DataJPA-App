@@ -1,0 +1,1 @@
+This is User acceptance Testing sample file in our application to record uat test cases records
